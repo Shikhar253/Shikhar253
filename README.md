@@ -9,9 +9,15 @@
 
 <img align="center" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="450">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=shikhar253&label=Profile%20views&color=0e75b6&style=flat" alt="shikhar253" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=shikhar253&label=Profile%20views&color=0e75b6&style=flat" alt="shikhar253" /> 
+<!-- <img src="https://visitor-badge.glitch.me/badge?page_id=Shikhar253.Shikhar253"/> -->
+</p>
+
+
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shikhar253" alt="shikhar253" /></a> </p>
+
+
 
 - 🔭 I’m currently working on **JavaScript apps/systems** 
 
