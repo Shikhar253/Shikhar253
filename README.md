@@ -1,11 +1,13 @@
+<div >
+<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" height="400" width="900"  />
+</div> 
+
+<h1 > I'm Shikhar Saxena<img src="https://media.giphy.com/media/hVa6t0WpoDOk7Pxb7l/giphy.gif" width="50"></h1>
+<h3 >Making and breaking stuff ...</h3>
 
 
-<h1 align="center">Hi <img src="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif" width="30">, I'm Shikhar Saxena<img src="https://media.giphy.com/media/hVa6t0WpoDOk7Pxb7l/giphy.gif" width="50"></h1>
-<h3 align="center">Making and breaking stuff ...</h3>
 
-
-
-<img align="center" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="750">
+<img align="center" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="450">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shikhar253&label=Profile%20views&color=0e75b6&style=flat" alt="shikhar253" /> </p>
 
