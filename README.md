@@ -9,7 +9,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shikhar253" alt="shikhar253" /></a> </p>
 
-- 🔭 I’m currently working on **JavaScript apps/systems**
+- 🔭 I’m currently working on **JavaScript apps/systems [https://github.com/Shikhar253/Blog-website](https://github.com/Shikhar253/Blog-website)** 
 
 - 🌱 I’m currently learning **Next.JS and MaterialUI**
 
