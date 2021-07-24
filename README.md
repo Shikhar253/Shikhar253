@@ -10,7 +10,7 @@
 <img align="center" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="450">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shikhar253&label=Profile%20views&color=0e75b6&style=flat" alt="shikhar253" /> 
-<!-- <img src="https://visitor-badge.glitch.me/badge?page_id=Shikhar253.Shikhar253"/> -->
+<img src="https://visitor-badge.glitch.me/badge?page_id=Shikhar253.Shikhar253"/>
 </p>
 
 
