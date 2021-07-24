@@ -95,5 +95,5 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shikhar253&show_icons=true&locale=en" alt="shikhar253" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shikhar253&" alt="shikhar253" /></p>
-<img height="120" alt="Thanks for visiting me" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shikhar253&" alt="shikhar253" />
+<img height="120" alt="Thanks for visiting me" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" /></p>
