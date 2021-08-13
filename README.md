@@ -21,7 +21,7 @@
 
 - 🔭 I’m currently working on **JavaScript apps/systems** 
 
-- 🛠️ Current project : **[MERN Stack Blog Website](https://github.com/Shikhar253/Blog-website)**
+- 🛠️ Current project : **[File sharing App](https://github.com/Shikhar253/File-Sharing-App)**
 
 - 🌱 I’m currently learning **Next.JS and MaterialUI**
 
