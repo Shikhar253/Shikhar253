@@ -27,7 +27,7 @@
 
 - 👯 I’m looking to collaborate on **MERN Stack projects**
 
-- 👨‍💻 My PORTFOLIO website : [https://shikhar181.netlify.app/](https://shikhar181.netlify.app/)
+- 👨‍💻 My PORTFOLIO website : [https://ss181.netlify.app/](https://ss181.netlify.app/)
 
 - 💬 Ask me about **Frontend Web Development**
 
