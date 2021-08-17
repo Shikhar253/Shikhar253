@@ -27,8 +27,6 @@
 
 - 👯 I’m looking to collaborate on **MERN Stack projects**
 
-- 👨‍💻 My PORTFOLIO website : [https://ss181.netlify.app/](https://ss181.netlify.app/)
-
 - 💬 Ask me about **Frontend Web Development**
 
 - 📫 How to reach me **saxenashikhar01@gmail.com**
