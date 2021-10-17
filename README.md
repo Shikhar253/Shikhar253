@@ -1,6 +1,5 @@
-<div >
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" height="400" width="900"  />
-</div> 
+
+
 
 <h1 > I'm Shikhar Saxena<img src="https://media.giphy.com/media/hVa6t0WpoDOk7Pxb7l/giphy.gif" width="50"></h1>
 <h3 >Making and breaking stuff ...</h3>
@@ -94,4 +93,9 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shikhar253&show_icons=true&locale=en" alt="shikhar253" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shikhar253&" alt="shikhar253" />
+  
+ <figure><embed src="https://wakatime.com/share/@Shikhar253/9bef25a9-3257-49c4-a009-7aab61dfef62.svg"></embed></figure>
+ 
+![My github activity graph](https://activity-graph.herokuapp.com/graph?username=Shikhar253&theme=react-dark&custom_title=My%20Commits%20Graph%20&hide_border=true)
+  
 <img height="120" alt="Thanks for visiting me" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" /></p>
