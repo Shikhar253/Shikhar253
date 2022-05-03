@@ -20,9 +20,9 @@
 
 - 🔭 I’m currently working on **JavaScript apps/systems** 
 
-- 🛠️ Current project : **[File sharing App](https://github.com/Shikhar253/File-Sharing-App)**
+- 🛠️ Current project : **[VITHelper](https://github.com/Geekosophers/VITHelper-website)**
 
-- 🌱 I’m currently learning **Next.JS and MaterialUI**
+- 🌱 I’m currently learning **React Native**
 
 - 👯 I’m looking to collaborate on **MERN Stack projects**
 
