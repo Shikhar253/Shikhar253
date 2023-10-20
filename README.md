@@ -16,13 +16,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shikhar253" alt="shikhar253" /></a> </p>
 
-
-
 - 🔭 I’m currently working on **JavaScript apps/systems** 
-
-- 🛠️ Current project : **[VITHelper](https://github.com/Geekosophers/VITHelper-website)**
-
-- 🌱 I’m currently learning **React Native**
 
 - 👯 I’m looking to collaborate on **MERN Stack projects**
 
