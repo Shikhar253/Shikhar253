@@ -16,11 +16,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shikhar253" alt="shikhar253" /></a> </p>
 
-- 🔭 I’m currently working on **JavaScript apps/systems** 
+- 🔭 I’m currently working on **Leveraging AWS for highly scalable distributed systems** 
 
-- 👯 I’m looking to collaborate on **MERN Stack projects**
+- 👯 I’m looking to collaborate on **Full Stack dev projects**
 
-- 💬 Ask me about **Frontend Web Development**
+- 💬 Ask me about **Frontend/Backend Web Development**
 
 - 📫 How to reach me **saxenashikhar01@gmail.com**
 
