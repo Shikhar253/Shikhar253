@@ -1,60 +1,49 @@
 <h1 align="center">Hi, I'm Shikhar Saxena <img src="https://media.giphy.com/media/hVa6t0WpoDOk7Pxb7l/giphy.gif" width="35"></h1>
-<h3 align="center">Full Stack Java Developer | Backend Systems & Distributed Architecture</h3>
+<h3 align="center">Full Stack / Backend Engineer — Node.js & Java Ecosystems</h3>
 
 <p align="center">
-Building scalable backend systems in Java, Spring Boot, and event-driven architecture — currently working on real-time data pipelines, microservices, and production-grade caching strategies.
+Backend-focused engineer building scalable, distributed systems across both the Node.js/AWS and Java/Spring ecosystems — REST & GraphQL APIs, event-driven architectures, cloud infrastructure, and increasingly, LLM-powered agentic workflows.
 </p>
-
 
 ---
 
 ### 🧑‍💻 About Me
 
-- 💼 Software Engineer with **1.5+ years of full-time experience** building backend microservices and distributed systems, plus prior full-stack development experience
-- 🏗️ Currently working on **Java, Spring Boot, PostgreSQL, and Kafka-based event-driven systems** at scale
-- ☁️ Hands-on with **AWS, Docker, and Kubernetes** for building and deploying production systems
-- 🔐 Experienced in implementing **OAuth2 / Spring Security** for microservices security hardening
-- 🤖 Recently built an **LLM-powered agent (LangChain4j)** for automated workflow tooling
+- 🏗️ I build backend systems end-to-end — API design, data modeling, caching, deployment, and observability
+- 🔀 Comfortable working across **two backend ecosystems**: Node.js/TypeScript on AWS, and Java/Spring Boot on Kubernetes
+- 📨 Experienced with event-driven architecture — background workers, message queues, webhook pipelines, and Kafka-based streaming
+- 🔐 Strong focus on secure, well-tested services — JWT, OAuth2, RBAC, and high automated test coverage
+- 🤖 Recently building LLM-powered agentic workflows — RAG pipelines, embeddings, vector search, and tool-calling (including LangChain-based agents)
+- ☁️ Deep AWS experience, plus Docker/Kubernetes-based deployment pipelines
 - 📫 Reach me at **shikhar.dev2001@gmail.com**
 
 ---
- 
+
 ### 🛠️ Tech Stack
- 
-**Languages:** Java, JavaScript, TypeScript, Python, HTML5, CSS3
- 
-**Backend & Frameworks:** Spring, Spring Boot, Spring MVC, Spring Security, Spring Data JPA, Hibernate, RESTful Web Services, GraphQL, Apache Kafka, Spring Cloud, OAuth2, JWT
- 
-**Frontend:** React, Redux, Next.js, Bootstrap, Tailwind CSS
- 
-**Databases & Storage:** PostgreSQL, MySQL, MongoDB, Redis
- 
-**Cloud, DevOps & Tools:** AWS (EC2, S3, Lambda), Docker, Kubernetes, Jenkins, Git, GitHub, Maven, Gradle, Postman, Swagger, Terraform
- 
----
-### 💼 Experience Highlights
 
-**Software Engineer — Backend Systems** *(Jan 2025 – Current)*
-- Designed and implemented 6 microservices (Java, Spring Boot, REST APIs) supporting a platform handling 2M+ daily API requests
-- Rearchitected legacy PostgreSQL queries powering a high-volume checkout flow, cutting average query time from 800ms to 250ms
-- Built a Kafka-based event pipeline processing 500K+ events/day, replacing a batch job that previously ran every 6 hours
-- Rolled out OAuth2 and Spring Security across 8 microservices as part of a security hardening initiative
-- Built a Spring Boot service integrating a LangChain4j agent for automated ticket categorization, cutting manual triage effort by 35%
+**Languages:** Java, JavaScript, TypeScript, Python, C++, HTML5, CSS3, SQL
 
-**Java Full Stack Developer Intern** *(Jan 2021 – May 2023)*
-- Contributed to backend services and JWT-based authentication for a banking client's compliance initiative
-- Built front-end components for a client-facing portal serving 10,000+ monthly active users
-- Wrote 40+ automated test cases (JUnit, Mockito) and helped configure Redis caching, cutting response times from 900ms to 180ms
+**Backend & Frameworks:** Node.js, Express.js, Django, Spring, Spring Boot, Spring MVC, Spring Security, Spring Data JPA, Hibernate, Microservices Architecture, Event-Driven Architecture, RESTful APIs, GraphQL, WebSockets, Apache Kafka, Spring Cloud, Prisma, Background Workers, Message Queues
+
+**Frontend:** React, Redux, Next.js, Bootstrap, Tailwind CSS, AJAX, JSON
+
+**Databases & Storage:** PostgreSQL, MySQL, MongoDB, DynamoDB, Redis, Database Design & Indexing, Query Optimization, Caching Strategies, Database Migration
+
+**Cloud, DevOps & Infra:** AWS (EC2, ECS, Lambda, RDS, S3, Cognito, CloudWatch, IAM, SQS), Docker, Kubernetes, GitHub Actions, Jenkins, NGINX, CI/CD, Terraform
+
+**Security & Auth:** JWT, OAuth2, RBAC, Spring Security
+
+**AI / Agentic Systems:** LLM Integration, RAG, Embeddings, Vector Search, Tool Calling, LangChain4j, AI Agent Workflows
+
+**Testing & Tools:** Git, GitHub, Jest, JUnit, Mockito, Cypress, Postman, Swagger, SonarQube, Firebase, Jira, Agile Methodology, Maven, Gradle
 
 ---
 
 ### 🎓 Education
--**M.S. in Computer Science** — Stevens Institute of Technology *(2023 – 2025)*
 
--**B.Tech in Computer Science and Engineering** — Vellore Institute of Technology *(2019 – 2023)*
+- **M.S. in Computer Science** — Stevens Institute of Technology
+- **B.Tech in Computer Science and Engineering** — Vellore Institute of Technology
 
 ---
 
-
-
-<p align="center"><em>Open to full-time backend/full-stack engineering opportunities.</em></p>
+<p align="center"><em>Open to backend / full-stack engineering opportunities.</em></p>
